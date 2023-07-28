@@ -1,0 +1,272 @@
+.container{
+	height:auto;
+	width:100%;
+	margin: auto;
+
+}
+
+.header
+{
+	width: 100%;
+	height: 45px;
+	background-color: black;
+	position: relative;
+}
+
+.h
+{
+	display:inline-block;
+	padding: 12px 35px 16px 15px;
+	color: white;
+	font-size: 12px;
+}
+.h1{
+	
+	display:inline-block;
+	margin: 10px 0px 10px 150px;
+	color: white;
+	font-size: 15px;
+}
+.h2{
+	margin: 0px 0px 0px 80px;
+	display:inline-block;
+	color: white;
+	font-size: 15px;
+}
+.h2,.h4:hover{
+	cursor: pointer;
+}
+.h3
+{
+	display:inline-block;
+	margin: 0px 0px 0px 10px;
+	color: blue;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: -10px;
+}
+.h4
+{
+	
+	margin: 0px 0px 0px 80px;
+	display:inline-block;
+	color: #4D4747;
+	font-size: 20px;
+}
+.header1
+{
+	width: 100%;
+	height: 45px;
+	background-color: #FFF5EE;
+	margin-top: 3px;
+}
+.pic
+{
+display:inline-block;	
+margin-top: 70px;
+}
+.sep
+{
+display:inline-block;	
+margin-top: 20px;
+margin-left: 10px;
+}
+
+.p2
+{
+display:inline-block;	
+margin-left: 30px;
+margin-top: 10px;
+}
+.p1
+{
+display:inline-block;	
+margin-left: 20px;
+}
+.p3{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.header2
+{
+	margin-top: -60px;
+}
+.free
+{
+	display: inline-block;
+    margin: 150px 5px 10px 5px;
+    color: black;
+    background-color: #A02B2B;
+    font-size: 30px;
+    font-style: Bahnschrift SemiLight;
+    margin-top: -200px;
+    margin-left: 50px;
+    margin-right: -50px;
+}
+body h1
+{
+color: black;
+text-align: center;
+margin-top: 80px;
+font-size: 40px;
+
+}
+body p
+{
+color: black;
+text-align: center;
+margin-top: 40px;
+font-size: 16px;
+font-style: italic;
+font-family: courier;
+
+}
+body ul
+{
+	color: black;
+	list-style-type: none; /* Remove bullets */
+   margin-top: 2px;
+   font-size: 20px;
+   margin-right: -20px;
+   font-family: VisbyCF-Medium;
+}
+.text
+{
+ position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.c1
+{
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	margin-bottom: 5px;
+	margin-top: 0px;
+	background-color: #F5F0F0;
+}
+#f1
+{
+	display: inline-block;
+	margin-right: 90px;
+	margin-top: -100px;
+}
+#f2
+{
+	display: inline-block;
+	margin-right: 100px;
+}
+#f3
+{
+	display: inline-block;
+	margin-right: 100px;
+}
+#f4
+{
+	display: inline-block;
+	margin-right: 110px;
+}
+
+
+.footer
+{
+	background-color: black;
+	color: white;
+	width:100%;
+	height: 20px;
+	text-align: center;
+	font-size: 15px;
+	font-style: italic;
+	margin-bottom: 3px;
+}
+
+.gallery 
+{
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 5px 10px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.gallery:hover
+{
+  border: 1px solid #777;
+  cursor: pointer;
+  transform: scale(1.1, 1.1);
+  background-color:#F5F4F4;
+}
+
+
+.desc 
+{
+ padding:5px;
+ margin-left:
+ background-color:#E2DADA;
+}
+.center
+{
+	padding-left: 50px;
+}
+.cen
+{
+	padding-left: 20px;
+}
+.gall
+{
+display: inline-block;
+margin-left: 25px;
+}
+.unstitched
+{
+  margin-left: 240px;
+  margin-top: 0px;
+  position: absolute;
+  top: 22%;
+}
+.winter
+{
+  margin-left: 120px;
+  margin-top: 50px;
+  position: absolute;
+  top: 28%;
+}
+.western
+{
+  margin-left: -250px;
+  margin-top: 40px;
+  position: absolute;
+  top: 39%;
+}
+.bags
+{
+  margin-left: 110px;
+  margin-top: 40px;
+  position: absolute;
+  top: 37%;
+}
+.foot
+{
+  margin-left: 85px;
+  margin-top: 40px;
+  position: absolute;
+  top: 37%;
+}
+.frag
+{
+  margin-left: 70px;
+  margin-top: 40px;
+  position: absolute;
+  top: 37%;
+}
+.girl
+{
+  margin-left: 250px;
+  margin-top: 40px;
+  position: absolute;
+  top: 47%;
+}
